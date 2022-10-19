@@ -3,8 +3,8 @@
 }
 
 .principal{
-    background: #CCCCCC;
-    padding: 30px;
+    background: #CCCCCC; /*background fundo da tela e #CCCCCC é cor por hexadecimal*/
+    padding: 30px; /*Espaçamento*/
 }
 
 p{
